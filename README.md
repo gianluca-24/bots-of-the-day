@@ -1,8 +1,8 @@
 # Bots of the day
 Me and a colleague created these 3 bots that make daily post about three topics:
-- Facts of the day;   
-- Births of the day;
-- Deaths of the day;
+- Facts of the day: x.com/factsfromtoday;   
+- Births of the day: x.com/birthsfromtoday;
+- Deaths of the day: x.com/deathsfromtoday;
 
 ## Technologies
 
