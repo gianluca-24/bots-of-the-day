@@ -1,6 +1,6 @@
 # Bots of the day
 Me and a colleague created these 3 bots that make daily post about three topics:
-- [Facts of the day] https://x.com/factsfromtoday;   
+- [Facts of the day]: https://x.com/factsfromtoday;   
 - Births of the day: https://x.com/birthsfromtoday;
 - Deaths of the day: https://x.com/deathsfromtoday;
 
